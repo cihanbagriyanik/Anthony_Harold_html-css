@@ -248,7 +248,7 @@ button {
 }
 
 .fa-brands {
-    color: #d2b48c;
+    color: white;
     /* font-size: 1.25rem;
     padding-top: 20px; */
 
@@ -261,7 +261,7 @@ button {
 
 
 .socialText{
-    color: #d2b48c;
+    color: white;
     text-decoration: none;
     text-transform: capitalize;
     font-size: 1.25rem;
@@ -274,13 +274,13 @@ button {
 
 }
 .socialText:hover{
-    /* color: #a28a6c; */
-    color: red;
+    color: #d2b48c;
+    /* color: red; */
 }
 
 .socialText:hover i{
-    /* color: #a28a6c; */
-    color: red;
+    color: #d2b48c;
+    /* color: red; */
 }
 
 .socialMainContainer{
